@@ -1,4 +1,4 @@
-## Nmae:Gajalakshmi V
+## Name:Gajalakshmi V
 ## Reg no :212223040047
 
 ### SYNCHRONOUS-UP-COUNTER
